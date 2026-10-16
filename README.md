@@ -1,124 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Noman%20Khan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Vision%20%C2%B7%20Biometrics%20%C2%B7%20Applied%20AI&descSize=18&descAlignY=58" alt="Noman Khan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Noman%20Khan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Biometrics%20%C2%B7%20Applied%20AI&descSize=17&descAlignY=60" alt="Noman Khan" />
 
-<a href="https://github.com/Mr-Noman-Khan/Mr-Noman-Khan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Master's+student+in+Biometrics+%26+Intelligent+Systems;I+teach+machines+to+recognise+faces;Looking+for+a+6-month+M2+internship+%E2%80%94+Jan+2027" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=7FB7CC&center=true&vCenter=true&width=640&lines=Master's+student+in+Biometrics+%26+Intelligent+Systems;Software+developer+turned+vision+%26+ML+enthusiast;Looking+for+a+6-month+M2+internship+from+January+2027" alt="Typing animation" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Open%20to-M2%20Internship%20(Jan%202027)-2ea44f?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based%20in-France-0055A4?style=for-the-badge)
-![UPEC](https://img.shields.io/badge/UPEC-Master%20Biometrics%20%26%20IS-8A2BE2?style=for-the-badge)
+📍 France &nbsp;·&nbsp; 🎓 UPEC, Paris-Est Créteil &nbsp;·&nbsp; 🔎 M2 internship, January 2027
 
-[**Portfolio**](https://noman-khan.vercel.app/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/noman-khan-b90914289/) &nbsp;·&nbsp; [**Email**](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&labelColor=0f2027)](https://noman-khan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&labelColor=0f2027)](https://www.linkedin.com/in/noman-khan-b90914289/)
+[![Email](https://img.shields.io/badge/Email-2c5364?style=for-the-badge&labelColor=0f2027)](mailto:noman.khan.job@gmail.com)
 
 </div>
-
----
-
-## 👋 Hey, I'm Noman
-
-I'm a Master's student in **Biometrics and Intelligent Systems** at Université Paris-Est Créteil (UPEC). I finished my first year with honours (15/20) and I'm now heading into M2.
-
-I got here from a software background. I studied Information Technology and spent a lot of time building things before I ever trained a model, so I still like the whole loop: understand the problem, try a model, measure it honestly, then wrap it in something people can actually use.
-
-What pulls me in most is **facial biometrics**. It's one of those fields where a model that looks great on a demo can fall apart under proper evaluation, and I enjoy digging into why.
-
-> 🔎 **Right now:** I'm looking for a **6-month M2 internship starting January 2027** in computer vision, biometrics, machine learning or AI engineering. If your team works on anything in that space, I'd love to talk.
-
----
-
-## 🚀 What I've been building
-
-### 🔐 Facial Biometrics System with LLM-Assisted Evaluation
-[**View on GitHub →**](https://github.com/Mr-Noman-Khan/Facial-Biometrics-llm)
-
-My main project. A face recognition app that handles both **1:1 verification** ("is this the same person?") and **1:N identification** ("who is this?"), with a web interface on top and a proper evaluation pipeline underneath.
-
-- Full pipeline: detection, alignment, then embedding extraction
-- Verification scored with **FAR, FRR, EER and ROC curves**
-- Identification scored with **Rank-1 and Rank-k**
-- Robustness experiments, all tracked with **MLflow**
-- An LLM layer that explains the metrics in plain language
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![FaceNet](https://img.shields.io/badge/FaceNet-444?style=flat-square)
-![MTCNN](https://img.shields.io/badge/MTCNN-444?style=flat-square)
 
 <br/>
 
-### 🌐 Personal Portfolio
-[**Live site →**](https://noman-khan.vercel.app/) &nbsp;·&nbsp; [**Source →**](https://github.com/Mr-Noman-Khan/noman-khan-portfolio)
+## About me
 
-Where I put my background, skills and projects in one place. Plain HTML, CSS and JavaScript, deployed on Vercel.
+I'm doing a Master's in **Biometrics and Intelligent Systems** at Université Paris-Est Créteil. I finished the first year with honours (15/20) and I'm now moving into M2.
 
-### 🤖 Nagging Chatbot
-[**View on GitHub →**](https://github.com/Mr-Noman-Khan/Nagging-Chatbot)
+I came into this from software development, so I'm happiest when a project goes the whole way: understand the problem, experiment with a model, evaluate it properly, and build something around it that people can actually use. Facial biometrics is where I enjoy that the most, because a model that looks good in a demo can look very different once you measure it carefully.
 
-A small, slightly cheeky chatbot I built to practise conversational interaction and front-end development.
+## What I'm looking for
 
-### ⚛️ React practice
-[**React Labs →**](https://github.com/Mr-Noman-Khan/React_labs) &nbsp;·&nbsp; [**Budget App →**](https://github.com/Mr-Noman-Khan/React_budget_app)
+A **6-month M2 internship starting January 2027** in computer vision, biometrics, machine learning or AI engineering. I'd like to work on something that ends up as a working system, not just an experiment in a notebook.
 
-Hands-on exercises and a budget tracker, from when I was getting comfortable with React.
+## Selected work
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [**Facial Biometrics + LLM Evaluation**](https://github.com/Mr-Noman-Khan/Facial-Biometrics-llm) | Face verification (1:1) and identification (1:N) with a web interface. Evaluated with FAR, FRR, EER, ROC and Rank-1/Rank-k, with robustness experiments tracked in MLflow and an LLM that explains the results in plain language. | Python, Flask, FaceNet, MTCNN, OpenCV, MLflow |
+| [**Portfolio**](https://noman-khan.vercel.app/) | My personal site for projects, skills and background. [Source](https://github.com/Mr-Noman-Khan/noman-khan-portfolio) | HTML, CSS, JavaScript |
+| [**Nagging Chatbot**](https://github.com/Mr-Noman-Khan/Nagging-Chatbot) | A small chatbot built to practise conversational interaction on the web. | HTML, CSS, JavaScript |
+| **React practice** | Hands-on exercises and a budget tracker: [Labs](https://github.com/Mr-Noman-Khan/React_labs) · [Budget App](https://github.com/Mr-Noman-Khan/React_budget_app) | React, JavaScript |
 
-## 🛠️ Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,flask,fastapi,react,html,css,tensorflow,pytorch,opencv,numpy,pandas,git,github&perline=7" alt="Skills" />
-
-</div>
+## Tech stack
 
 | | |
 |---|---|
-| **Languages** | Python, JavaScript, SQL |
-| **Vision & Biometrics** | OpenCV, face detection and recognition, image processing, biometric evaluation |
-| **ML & Deep Learning** | TensorFlow, PyTorch, CNNs, FaceNet, Triplet Loss, ArcFace, CosFace |
-| **Backend & Web** | Flask, FastAPI, REST APIs, React, HTML, CSS |
-| **Data & Workflow** | NumPy, Pandas, Matplotlib, MLflow, Git, GitHub |
+| **Languages** | Python · JavaScript · SQL |
+| **Vision & biometrics** | OpenCV · face detection & recognition · image processing · biometric evaluation |
+| **ML & deep learning** | TensorFlow · PyTorch · CNNs · FaceNet · Triplet Loss · ArcFace · CosFace |
+| **Backend & web** | Flask · FastAPI · REST APIs · React · HTML · CSS |
+| **Data & tools** | NumPy · Pandas · Matplotlib · MLflow · Git · GitHub |
 
----
+## Currently
 
-## 🎯 What I'm working on
+- Digging into face recognition losses and how they shape embeddings
+- Evaluating biometric systems beyond a single accuracy number
+- Connecting models to applications people can use
+- Lining up my M2 internship
 
-- Getting deeper into **face recognition losses** and how they shape embeddings
-- Evaluating biometric systems properly, not just reporting accuracy
-- Connecting AI models to real applications that someone can click through
-- Lining up my M2 internship for January 2027
+## Say hello
 
----
+I'm open to internships, collaborations, or a chat about face recognition and how to evaluate it honestly.
 
-## 📊 GitHub, at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-Noman-Khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Noman-Khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-## 🤝 Let's talk
-
-I'm happy to chat about internships, collaborations, or just face recognition and evaluation methods in general.
+📧 **Email:** noman.khan.job@gmail.com
+💼 **LinkedIn:** [noman-khan-b90914289](https://www.linkedin.com/in/noman-khan-b90914289/)
+🌐 **Portfolio:** [noman-khan.vercel.app](https://noman-khan.vercel.app/)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-noman--khan.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)](https://noman-khan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-khan-b90914289/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" alt="" />
 
 </div>
