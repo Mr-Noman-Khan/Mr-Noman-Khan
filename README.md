@@ -6,7 +6,7 @@
 
 <br/>
 
-📍 France &nbsp;·&nbsp; 🎓 M2 at UPEC, Paris-Est Créteil &nbsp;·&nbsp; 🗣️ English · French · Urdu
+📍 France &nbsp;·&nbsp; 🎓 M2 at UPEC, Paris-Est Créteil &nbsp;·&nbsp; 🗣️ English · French
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&labelColor=0f2027)](https://noman-khan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2c5364?style=for-the-badge&labelColor=0f2027)](https://www.linkedin.com/in/noman-khan-b90914289/)
